@@ -1,0 +1,7 @@
+D:\PROJETS\4-Trimestre\P_SpaceInvaders\SpicyInvaders\SpicyInvaders\bin\Debug\SpicyInvaders.exe.config
+D:\PROJETS\4-Trimestre\P_SpaceInvaders\SpicyInvaders\SpicyInvaders\bin\Debug\SpicyInvaders.exe
+D:\PROJETS\4-Trimestre\P_SpaceInvaders\SpicyInvaders\SpicyInvaders\bin\Debug\SpicyInvaders.pdb
+D:\PROJETS\4-Trimestre\P_SpaceInvaders\SpicyInvaders\SpicyInvaders\obj\Debug\SpicyInvaders.csproj.AssemblyReference.cache
+D:\PROJETS\4-Trimestre\P_SpaceInvaders\SpicyInvaders\SpicyInvaders\obj\Debug\SpicyInvaders.csproj.CoreCompileInputs.cache
+D:\PROJETS\4-Trimestre\P_SpaceInvaders\SpicyInvaders\SpicyInvaders\obj\Debug\SpicyInvaders.exe
+D:\PROJETS\4-Trimestre\P_SpaceInvaders\SpicyInvaders\SpicyInvaders\obj\Debug\SpicyInvaders.pdb

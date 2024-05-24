@@ -5,6 +5,42 @@
     {
       "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\spaceship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\shootingball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\shootingball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\fallingball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\fallingball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|d:\\projets\\4-trimestre\\p_spaceinvaders\\spicyinvaders\\spicyinvaders\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963A0A7C-82FF-4145-A240-714CA85B0779}|SpicyInvaders\\SpicyInvaders.csproj|solutionrelative:spicyinvaders\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +50,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Options.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Options.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\Options.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Options.cs",
+              "RelativeToolTip": "SpicyInvaders\\Options.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:45:10.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\About.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\About.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\About.cs",
+              "RelativeToolTip": "SpicyInvaders\\About.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:45:01.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Highscore.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Highscore.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\Highscore.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Highscore.cs",
+              "RelativeToolTip": "SpicyInvaders\\Highscore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:44:48.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FallingBall.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\FallingBall.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\FallingBall.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\FallingBall.cs",
+              "RelativeToolTip": "SpicyInvaders\\FallingBall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:44:33.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Enemy.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\Enemy.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Enemy.cs",
+              "RelativeToolTip": "SpicyInvaders\\Enemy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:44:17.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShootingBall.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\ShootingBall.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\ShootingBall.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\ShootingBall.cs",
+              "RelativeToolTip": "SpicyInvaders\\ShootingBall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:44:06.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Spaceship.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Spaceship.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\Spaceship.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Spaceship.cs",
+              "RelativeToolTip": "SpicyInvaders\\Spaceship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:43:54.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Game.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\Game.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Game.cs",
+              "RelativeToolTip": "SpicyInvaders\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:43:38.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Homepage.cs",
+              "RelativeDocumentMoniker": "SpicyInvaders\\Homepage.cs",
+              "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Homepage.cs",
+              "RelativeToolTip": "SpicyInvaders\\Homepage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:42:58.248Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +177,7 @@
               "RelativeDocumentMoniker": "SpicyInvaders\\Program.cs",
               "ToolTip": "D:\\PROJETS\\4-Trimestre\\P_SpaceInvaders\\SpicyInvaders\\SpicyInvaders\\Program.cs",
               "RelativeToolTip": "SpicyInvaders\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T11:21:57.114Z",
               "EditorCaption": ""
