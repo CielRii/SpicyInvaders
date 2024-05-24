@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using System.Drawing;
 
 namespace SpicyInvaders
 {
@@ -47,6 +48,11 @@ namespace SpicyInvaders
             Console.SetCursorPosition(xPosition, yPosition);
             Console.WriteLine(myShootingBall);
             System.Threading.Thread.Sleep(25);
+        }
+
+        public Rectangle hitbox()
+        {
+            return new Rectangle(xPosition, yPosition, Width, Height);
         }
 
     }

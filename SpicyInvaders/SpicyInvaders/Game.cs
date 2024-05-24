@@ -64,7 +64,7 @@ namespace SpicyInvaders
                 Console.Write(formattedHighscore);
 
 
-
+                //myEnemy.CreateInvaders();
                 myEnemy.Update(mySpaceship); //Evite qu'un nouveau vaisseau ne soit créé
                 myEnemy.Draw();
                 myFallingBall.Update(myEnemy);
@@ -86,7 +86,7 @@ namespace SpicyInvaders
                 }
 
                 //K.O. du joueur
-                if (myFallingBall.xBallPosition == mySpaceship.xPosition)
+                if (myFallingBall.xBallPosition == mySpaceship.xPosition && myFallingBall.yBallPosition == mySpaceship.yPosition)
                 {
                     mySpaceship.nbLifes--;
                     if (mySpaceship.nbLifes == 0)
@@ -96,63 +96,77 @@ namespace SpicyInvaders
                     }
                 }
 
-                int[,] j = { { 1, 2, 3, 4, 5, 6 }, { 1, 2, 3, 4, 5, 6 }, { 1, 2, 3, 4, 5, 6 }, { 1, 2, 3, 4, 5, 6 } };
-                int[] y = { 1, 2, 3, 4, 5, 6 };
+                //int[,] j = { { 1, 2, 3, 4, 5, 6 }, { 1, 2, 3, 4, 5, 6 }, { 1, 2, 3, 4, 5, 6 }, { 1, 2, 3, 4, 5, 6 } };
+                //int[] y = { 1, 2, 3, 4, 5, 6 };
 
 
                 ////K.O. de l'ennemi
-                for (int i = 0; i < myEnemy.myEnemies.GetLength(0); i++) //4
+                for (int i = 0; i < myEnemy.Height; i++) //4
                 {
-                    if (myShootingBall.xPosition == myEnemy.xPosition + i && myShootingBall.shoot == true)
-                    {
-                        // Calculate the correct index for accessing j
-                        int columnIndex = j[i, y[i] - 1]; // Adjusting to 0-based indexing
-
-                        if (myEnemy.myEnemies[i, columnIndex] != " ")
-                        {
-                            myEnemy.myEnemies[i, columnIndex] = " ";
-                            myShootingBall.shoot = false;
-                            score += 30;
-                            break;
-                        }
-                    }
-
-                    //for (int j = 0; j < myEnemy.myEnemies.GetLength(1); j++)
+                    //if (myShootingBall.xPosition == myEnemy.xPosition + i && myShootingBall.shoot == true)
                     //{
-                    //    if (myEnemy.myEnemies[i, j] != " ")
+                    //    // Calculate the correct index for accessing j
+                    //    int columnIndex = j[i, y[i] - 1]; // Adjusting to 0-based indexing
+
+                    //    if (myEnemy.myEnemies[i, columnIndex] != " ")
                     //    {
-                    //        Rectangle enemyRect = new Rectangle(
-                    //            myEnemy.xPosition + j * myEnemy.Width,
-                    //            myEnemy.yPosition + i * myEnemy.Height,
-                    //            myEnemy.Width,
-                    //            myEnemy.Height
-                    //        );
-
-                    //        Rectangle shootingBallRect = new Rectangle(
-                    //            myShootingBall.xPosition,
-                    //            myShootingBall.yPosition,
-                    //            myShootingBall.Width,
-                    //            myShootingBall.Height
-                    //        );
-
-                    //        if (myShootingBall.shoot && enemyRect.IntersectsWith(shootingBallRect))
-                    //        {
-                    //            myEnemy.myEnemies[i, j] = " ";
-                    //            myShootingBall.shoot = false;
-                    //            break;
-                    //        }
+                    //        myEnemy.myEnemies[i, columnIndex] = " ";
+                    //        myShootingBall.shoot = false;
+                    //        score += 30;
+                    //        break;
                     //    }
                     //}
+
+                    ////for (int j = 0; j < myEnemy.Width; j++)
+                    ////{
+
+                    ////    if (myShootingBall.hitbox().IntersectsWith(myEnemy.hitbox()))
+                    ////    {
+                    ////        Console.SetCursorPosition(myShootingBall.xPosition, myShootingBall.yPosition);
+                    ////        Console.WriteLine(" ");
+
+                    ////        for (int k = myEnemy.yPosition; k < myEnemy.Height; k++)
+                    ////        {
+                    ////            Console.SetCursorPosition(myEnemy.xPosition, k);
+                    ////            Console.WriteLine("       ");
+
+                    ////        }
+                    ////    }
+                       
+                    ////    /*if (myEnemy.myEnemies[i, j] != " ")
+                    ////    {
+                    ////        Rectangle enemyRect = new Rectangle(
+                    ////            myEnemy.xPosition + j * myEnemy.Width,
+                    ////            myEnemy.yPosition + i * myEnemy.Height,
+                    ////            myEnemy.Width,
+                    ////            myEnemy.Height
+                    ////        );
+
+                    ////        Rectangle shootingBallRect = new Rectangle(
+                    ////            myShootingBall.xPosition,
+                    ////            myShootingBall.yPosition,
+                    ////            myShootingBall.Width,
+                    ////            myShootingBall.Height
+                    ////        );
+
+                    ////        if (myShootingBall.shoot && enemyRect.IntersectsWith(shootingBallRect))
+                    ////        {
+                    ////            myEnemy.myEnemies[i, j] = " ";
+                    ////            myShootingBall.shoot = false;
+                    ////            break;
+                    ////        }
+                    ////    }*/
+                    ////}
                 }
 
 
-                if (myEnemy.myEnemies == null)
-                {
-                    myEnemy.enemyIsAlive = false;
-                    gameOver = true;
-                    winner = true;
-                    break;
-                }
+                //if (myEnemy.myEnemies == null)
+                //{
+                //    myEnemy.enemyIsAlive = false;
+                //    gameOver = true;
+                //    winner = true;
+                //    break;
+                //}
 
                 //Console.WriteLine("Score: " + score.ToString("D").Length + 3);
             }

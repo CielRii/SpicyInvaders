@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
+using System.Drawing;
 
 namespace SpicyInvaders
 {
@@ -40,7 +41,12 @@ namespace SpicyInvaders
             Console.SetCursorPosition(xPosition, yPosition);
             Console.WriteLine(mySpaceShip);
             // Delay to control character movement speed
-            System.Threading.Thread.Sleep(10);
+            System.Threading.Thread.Sleep(100);
+        }
+
+        public Rectangle hitbox()
+        {
+            return new Rectangle(xPosition, yPosition, 1, 1);
         }
     }
 }
